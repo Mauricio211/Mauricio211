@@ -1,16 +1,18 @@
-### Hi there 👋
+![](https://okhosting.com/resources/uploads/2016/06/buen-programador.jpg)
 
-<!--
-**Mauricio211/Mauricio211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, mi nombre es __Mauricio Chavez Arroyo__,actualmente estoy cursando la carrera de __Ingenieria en Sistemas Computacionales__ en el __Instituto Tecnológico de Tijuana__.  
+Me intereso la programacion desde la secundaria por su forma logica de hacer las cosas.
+Actualmente solo estudio aunque esperaba buscar algun trabajo relacionado con mi carrera pero por la pandemia no e podido.
 
-Here are some ideas to get you started:
+### Me puedes encontrar en mis redes sociales de la siguiente forma:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* En __Facebook__ como [Mauricio Chavez](https://www.facebook.com/profile.php?id=100006650838910)+
+* En __Instagram__ como [Mauriziion](https://www.instagram.com/mauriziion/?hl=en)
+
+#### Más sobre mí:
+
+|              | Comida | Color | Actividad        | Pelicula             | Serie            |
+|--------------|--------|-------|------------------|----------------------|------------------|
+| Preferencias |  Mole  | Azul  |    Jugar futbol  |          Django      | The mentalist    |
+
+
