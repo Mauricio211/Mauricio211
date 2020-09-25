@@ -1,4 +1,4 @@
-![](https://www.freepng.es/png-bdujqa)
+
 
 Hola, mi nombre es __Mauricio Chavez Arroyo__,actualmente estoy cursando la carrera de __Ingenieria en Sistemas Computacionales__ en el __Instituto Tecnológico de Tijuana__.  
 Me intereso la programacion desde la secundaria por su forma logica de hacer las cosas.
@@ -16,3 +16,4 @@ Actualmente solo estudio aunque esperaba buscar algun trabajo relacionado con mi
 | Preferencias |  Mole  | Azul  |    Jugar futbol  |          Django      | The mentalist    |
 
 
+Espero que esta materia me ayude a comprender mas la programacion ya que para mi es muy importante el hecho de siempre estar aprendiendo cosas nuevas.
