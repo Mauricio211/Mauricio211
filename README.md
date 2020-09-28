@@ -15,6 +15,7 @@ Actualmente solo estudio aunque esperaba buscar algun trabajo relacionado con mi
 |--------------|--------|-------|------------------|----------------------|------------------|
 | Preferencias |  Mole  | Azul  |    Jugar futbol  |          Django      | The mentalist    |
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="60" height="20" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5467623.png" width="354" height="60" alt="Futuro ingeniero" /></a>
+<br />Image by <a href="https://cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3639211972">Create An Image Just Like This</a>
 
 Espero que esta materia me ayude a comprender mas la programacion ya que para mi es muy importante el hecho de siempre estar aprendiendo cosas nuevas.
